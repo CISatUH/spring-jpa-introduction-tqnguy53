@@ -66,4 +66,10 @@ public class Manager {
     public int hashCode() {
         return Objects.hash(id, firstName, lastName, department);
     }
+
+/*  @Override
+    public String toString() {
+        return String.format("Manager: " + this.firstName + " " + this.lastName);
+    }
+*/
 }

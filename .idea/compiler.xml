@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="jpa-demo" />
         <module name="jpa-intro" />
+        <module name="spring-jpa-introduction-tqnguy53" />
       </profile>
     </annotationProcessing>
   </component>
